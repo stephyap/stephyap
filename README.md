@@ -17,10 +17,18 @@
 
 <br />
 
-### 📕 Latest Reads
+### Currently Reading
 
 - [The State of Affairs](https://www.amazon.com/State-Affairs-Rethinking-Infidelity/dp/0062322583)
+- [The Theory of Poker](https://www.amazon.com/Theory-Poker-Professional-Player-Teaches/dp/1880685000)
 
+### Latest Reads:
+- [Stiff](https://www.goodreads.com/book/show/32145.Stiff)
+- [Lean In: Women, Work, and the Will to Lead](https://www.goodreads.com/book/show/16071764-lean-in)
+- [Invisible Women: Data Bias in a World Designed for Men](https://www.goodreads.com/book/show/50159884-invisible-women)
+- [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
+- [Educated](https://www.goodreads.com/book/show/35133922-educated)
+- [Outliers: The Story of Success](https://www.goodreads.com/book/show/3228917-outliers)
 
 
 [twitter]: https://twitter.com/ChiufengYap
