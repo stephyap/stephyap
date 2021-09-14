@@ -13,7 +13,8 @@
 
 [<img align="left" alt="Steph Yap's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Steph Yap's linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" />][instagram]
+
 
 <br />
 
@@ -34,3 +35,4 @@
 [twitter]: https://twitter.com/ChiufengYap
 [instagram]: https://www.instagram.com/chiufeng/
 [linkedin]: https://www.linkedin.com/in/chiufengyap/
+[instagramte]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
