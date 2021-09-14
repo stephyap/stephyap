@@ -1,6 +1,6 @@
-### Hi there, I'm Steph  👋
+## Hi there, I'm Steph  👋
 
-## I'm an Epidemiology MPH student with a concentration in Data Science 
+### I'm an Epidemiology MPH student with a concentration in Data Science 
 
 - I will graduate this December (12/2021)
 - I am currently enrolled in the DS4A/Women Fellowship Program 
@@ -16,25 +16,7 @@
 [<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-<br />
-
----
 
 ### 📕 Latest Reads
 
 - [The State of Affairs](https://www.amazon.com/State-Affairs-Rethinking-Infidelity/dp/0062322583)
-
-
----
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="StephYaps's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stephyap&show_icons=true&hide_border=true" />
-
-</details>
-
-[twitter]: https://twitter.com/ChiufengYap
-[instagram]: https://www.instagram.com/chiufeng/
-[linkedin]: https://www.linkedin.com/in/chiufengyap/
