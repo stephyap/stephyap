@@ -12,8 +12,8 @@
 ### Connect with me:
 
 [<img align="left" alt="Steph Yap's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Steph Yap's linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>" />][instagram]
+[<img align="left" alt="Steph Yap's linkedin | LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="https://www.flaticon.com/authors/pixel-perfect" />][instagram]
 
 
 <br />
@@ -35,4 +35,5 @@
 [twitter]: https://twitter.com/ChiufengYap
 [instagram]: https://www.instagram.com/chiufeng/
 [linkedin]: https://www.linkedin.com/in/chiufengyap/
-[instagramte]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
+[instagramtesting]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
+
