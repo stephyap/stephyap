@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Steph Yap's Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Steph Yap's linkedin | LinkedIn" width="22px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />][linkedin]
-[<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="https://www.flaticon.com/authors/pixel-perfect" />][instagram]
+[<img align="left" alt="Steph Yap's instagram | Instagram" width="22px" src="https://img.icons8.com/doodle/22/000000/instagram-new.png" />][instagram]
 
 
 <br />
@@ -37,3 +37,4 @@
 [linkedin]: https://www.linkedin.com/in/chiufengyap/
 [instagramtesting]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
 
+<img src="https://img.icons8.com/doodle/48/000000/instagram-new.png"/>
