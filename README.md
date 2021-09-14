@@ -1,10 +1,8 @@
-### Hi there, I'm Steph  👋
+### Hi there, I'm Steph  👋  
 
-## I'm an Epidemiology MPH student with a concentration in Data Science 
-
-- I will graduate this December (12/2021)
+- I'm graduating in December 2021 with an MPH in Epidemiology and a concentration in Data Science
 - I am currently enrolled in the DS4A/Women Fellowship Program 
-- I’m currently learning everything in Machine Learning
+- I love to visit national parks <img src="https://img.icons8.com/doodle/22/000000/national-park.png"/> 
 - I’m looking to pursue a career in Data Science (in the healthcare field)
 - ⚡ Fun fact: I speak Mandarin, Cantonese, Malay, and Hokkien
 
@@ -35,5 +33,5 @@
 [twitter]: https://twitter.com/ChiufengYap
 [instagram]: https://www.instagram.com/chiufeng/
 [linkedin]: https://www.linkedin.com/in/chiufengyap/
-[instagramtesting]: https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg
-<img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png"/> Hello does this work
+
+<img src="https://img.icons8.com/doodle/48/000000/national-park.png"/>
