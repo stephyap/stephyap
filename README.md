@@ -18,12 +18,14 @@
 
 
 ### Want to Read:
-- [An Economist Gets Lunch: New Rules for Everyday Foodies](https://www.amazon.com/Economist-Gets-Lunch-Everyday-Foodies/dp/B00B1KZ8JG)
+- [Better: A Surgeon's Notes on Performance](https://www.amazon.com/Better-Surgeons-Performance-Atul-Gawande/dp/0312427654)
+- [The Theory of Poker](https://www.amazon.com/Theory-Poker-Professional-Player-Teaches/dp/1880685000)
 
 ### Currently Reading
-
+- [An Economist Gets Lunch: New Rules for Everyday Foodies](https://www.amazon.com/Economist-Gets-Lunch-Everyday-Foodies/dp/B00B1KZ8JG)
 - [The State of Affairs](https://www.amazon.com/State-Affairs-Rethinking-Infidelity/dp/0062322583)
-- [The Theory of Poker](https://www.amazon.com/Theory-Poker-Professional-Player-Teaches/dp/1880685000)
+- [Dataclysm](https://www.amazon.com/Dataclysm-Identity-What-Online-Offline-Selves/dp/0385347391/ref=sr_1_1?crid=25RAYCDBZYOHG&dchild=1&keywords=dataclysm+book&qid=1635446480&s=books&sprefix=datacylysm+book%2Cstripbooks%2C102&sr=1-1)
+
 
 ### Latest Reads:
 - [Stiff](https://www.goodreads.com/book/show/32145.Stiff)
